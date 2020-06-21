@@ -1,22 +1,9 @@
 ---
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+title: "[Cidade] Desenvolvedora Golang na Nome da Empresa"
 
 ---
-
-<!-- 
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
-
-Não faça distinção de gênero no título da vaga.
-
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
-
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
-==================================================
--->
 
 ## Nossa empresa
 
@@ -24,7 +11,7 @@ Exemplo: Aqui na Corporação ACME somos líderes em...
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Exemplo: Projeto bazinga em Golang, etc.
 
 ## Local
 
@@ -33,7 +20,7 @@ Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
+- 2 anos de experiência com a linguagem Go
 - 2 anos de experiência com mongodb e express
 
 **Desejáveis:**
